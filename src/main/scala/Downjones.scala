@@ -90,7 +90,7 @@ class Downjones(val file: String) {
     val lines = fromFile(file_name).getLines().toArray
     for (line <- lines) _array :+= line
     println(_array.length)
-    for (i <- List.range(1,4,1)){
+    for (i <- List.range(1,5,1)){
       var _quater = _array(i).split(",")(0)
       var _stock  = _array(i).split(",")(1)
       var _date   = _array(i).split(",")(2)
