@@ -116,11 +116,18 @@ class Downjones(val file: String) {
     }
     val myCaseClassObjects: Seq[StockPrice] = lines.map(removeDollars).map(parseLine)
     println(myCaseClassObjects)
+
     //TODO: CALCULATE MIN, MAX OF VOLUME
-    def calculation(i : Int) : String = i match {
-      case 1 => "one"
-      case _ => "unknown"
-    }
+    val st: Seq[StockPrice] = myCaseClassObjects
+    println(myCaseClassObjects.getClass().getSimpleName())
+    println(st.getClass().getSimpleName())
+
+    val filteredList = st.filter(p => p.stock == "IBM")
+    val min = filteredList.map(x=>x.open).min
+    val max = filteredList.map(x=>x.open).max
+    val sum = filteredList.map(x=>x.open.toDouble).sum
+    val average = sum/filteredList.length
+    println("Min="+min,"Max="+max,"Average=" + average)
 
   }
 }
@@ -130,5 +137,6 @@ object Downjones{
     val dj = new Downjones("C:\\Users\\PhucCoi\\Documents\\Data Science course 3 Big Data\\Slides + Assignments\\Week 2\\dow_jones_index\\dow_jones_index.data")
     //TODO: Convert to case class
     dj.convert_toCaseClass()
+    //TODO: Doing calculation Max, Min, Average
   }
 }

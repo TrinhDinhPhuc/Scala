@@ -1,7 +1,25 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\Downjones.scala:120:23: not found: type Exp[0m
-[0m[[0m[31merror[0m] [0m[0m    def calculate(e : Exp)[0m
-[0m[[0m[31merror[0m] [0m[0m                      ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\Downjones.scala:120:9: only traits and abstract classes can have declared but undefined members[0m
-[0m[[0m[31merror[0m] [0m[0m    def calculate(e : Exp)[0m
-[0m[[0m[31merror[0m] [0m[0m        ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\sample.scala:5:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval stockPrices: Seq[StockPrice] = Seq(StockPrice("IBM", 12.2),StockPrice("GOOGLE", 2.2),StockPrice("IBM", 13.2))[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\sample.scala:7:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval filtered = stockPrices[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\sample.scala:11:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval average = filtered.sum / filtered.length[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\sample.scala:12:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval min = filtered.min[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\sample.scala:13:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval max = filtered.max[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\sample.scala:15:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintln(s"average: $average")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\sample.scala:16:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintln(s"min: $min")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\PhucCoi\Documents\Data Science course 3 Big Data\Slides + Assignments\Assignments_sbt\src\main\scala\sample.scala:17:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintln(s"max: $max")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m
