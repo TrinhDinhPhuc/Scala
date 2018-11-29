@@ -119,9 +119,10 @@ class Downjones(val file: String) {
 
     //TODO: CALCULATE MIN, MAX OF VOLUME
     val st: Seq[StockPrice] = myCaseClassObjects
-    println(myCaseClassObjects.getClass().getSimpleName())
-    println(st.getClass().getSimpleName())
-
+//    println(myCaseClassObjects.getClass().getSimpleName())
+//    println(st.getClass().getSimpleName())
+    //TODO: STOCK IBM
+    println("---------------STOCK IBM-----------------")
     val filteredList = st.filter(p => p.stock == "IBM")
     val min = filteredList.map(x=>x.open).min
     val max = filteredList.map(x=>x.open).max
@@ -129,6 +130,23 @@ class Downjones(val file: String) {
     val average = sum/filteredList.length
     println("Min="+min,"Max="+max,"Average=" + average)
 
+    //TODO: STOCK PFE
+    println("---------------STOCK PFE-----------------")
+    val filteredList_PFE = st.filter(p => p.stock == "PFE")
+    val min_PFE = filteredList_PFE.map(x=>x.open).min
+    val max_PFE = filteredList_PFE.map(x=>x.open).max
+    val sum_PFE = filteredList_PFE.map(x=>x.open.toDouble).sum
+    val average_PFE = sum_PFE/filteredList_PFE.length
+    println("Min="+min_PFE,"Max="+max_PFE,"Average=" + average_PFE)
+
+    //TODO: STOCK JNJ
+    println("---------------STOCK JNJ-----------------")
+    val filteredList_JNJ = st.filter(p => p.stock == "JNJ")
+    val min_JNJ = filteredList_JNJ.map(x=>x.open).min
+    val max_JNJ = filteredList_JNJ.map(x=>x.open).max
+    val sum_JNJ = filteredList_JNJ.map(x=>x.open.toDouble).sum
+    val average_JNJ = sum/filteredList_JNJ.length
+    println("Min="+min_JNJ,"Max="+max_JNJ,"Average=" + average_JNJ)
   }
 }
 
