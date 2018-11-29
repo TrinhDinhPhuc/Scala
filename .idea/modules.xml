@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-sbt.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-sbt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-sbt-build.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-sbt-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Assignments_sbt.iml" filepath="$PROJECT_DIR$/.idea/modules/Assignments_sbt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/assignments_sbt-build.iml" filepath="$PROJECT_DIR$/.idea/modules/assignments_sbt-build.iml" />
     </modules>
   </component>
 </project>

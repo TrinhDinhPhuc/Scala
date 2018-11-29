@@ -1,4 +1,4 @@
-name := "hello-sbt"
+name := "Assignments_sbt"
 
 version := "0.1"
 

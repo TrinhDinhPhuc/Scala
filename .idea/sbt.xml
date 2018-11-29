@@ -12,6 +12,7 @@
           </set>
         </option>
         <option name="resolveSbtClassifiers" value="true" />
+        <option name="sbtVersion" value="1.2.6" />
         <option name="useSbtShell" value="true" />
       </SbtProjectSettings>
     </option>
