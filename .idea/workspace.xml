@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a676acf5-af45-442d-a134-c6222042e780" name="Default Changelist" comment="" />
+    <list default="true" id="a0b37952-8c00-4fed-9499-5752d4cbadb0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -17,90 +17,45 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1249074660">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="1" />
-          <entry key="scala" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="Scala" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="scala" value="1190" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Scala" value="1190" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Downjones.scala">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/sample.scala">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Week2.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="308">
+              <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="package-info" />
-        <option value="Scala Object" />
-      </list>
-    </option>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ass</find>
-      <find>myCaseClassObjects</find>
-      <find>arr</find>
+      <find>priceString</find>
+      <find>priceString1</find>
+      <find>class</find>
+      <find>StockPrice_Obj</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project/Assignments.scala" />
-        <option value="$PROJECT_DIR$/project/assignment.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/public.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/main.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/asss.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/sample.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Downjones.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/Scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Week2.scala" />
       </list>
     </option>
   </component>
@@ -116,47 +71,12 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Assignments_sbt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignments_sbt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Assignments_sbt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignments_sbt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Assignments_sbt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignments_sbt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Assignments_sbt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignments_sbt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543505807460" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547633691669" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,47 +90,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Downjones">
-    <configuration name="Assignments" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments" />
-      <module name="assignments_sbt-build" />
+  <component name="RunManager">
+    <configuration name="Week2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Week2" />
+      <module name="SCALA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Downjones" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Downjones" />
-      <module name="Assignments_sbt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="assignment" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="assignment" />
-      <module name="assignments_sbt-build" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="asss" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="asss" />
-      <module name="Assignments_sbt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Assignments" />
-      <item itemvalue="Application.assignment" />
-      <item itemvalue="Application.asss" />
-      <item itemvalue="Application.Downjones" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Downjones" />
-        <item itemvalue="Application.asss" />
-        <item itemvalue="Application.assignment" />
-        <item itemvalue="Application.Assignments" />
+        <item itemvalue="Application.Week2" />
       </list>
     </recent_temporary>
   </component>
@@ -220,18 +110,18 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="Assignments_sbt" />
+              <option name="name" value="SCALA" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="assignments_sbt [file:/C:/Users/PhucCoi/Documents/Data%20Science%20course%203%20Big%20Data/Slides%20+%20Assignments/Assignments_sbt/]" />
+                <option name="name" value="scala [file:/C:/Users/PhucCoi/Documents/SCALA/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="assignments_sbt-build [file:/C:/Users/PhucCoi/Documents/Data%20Science%20course%203%20Big%20Data/Slides%20+%20Assignments/Assignments_sbt/]" />
+                <option name="name" value="SCALA-build" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -241,11 +131,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6173867334707" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="1263973351" />
-        <entry key="$PROJECT_DIR$/project/Assignments.scala" value="3657833516" />
-        <entry key="$PROJECT_DIR$/project/assignment.scala" value="1681067750" />
-        <entry key="$PROJECT_DIR$/project/build.properties" value="2125951362" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="486665456" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
       </map>
     </option>
   </component>
@@ -254,18 +141,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a676acf5-af45-442d-a134-c6222042e780" name="Default Changelist" comment="" />
-      <created>1543466632956</created>
+      <changelist id="a0b37952-8c00-4fed-9499-5752d4cbadb0" name="Default Changelist" comment="" />
+      <created>1546852427708</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543466632956</updated>
+      <updated>1546852427708</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,80 +161,46 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28502417" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32850242" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.32850242" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.29951692" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32850242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="sbt" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="sbt" order="8" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/project/Assignments.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Scala.scala" />
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/assignment.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Week2.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/public.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/asss.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/main.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/sample.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Downjones.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="308">
+          <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
